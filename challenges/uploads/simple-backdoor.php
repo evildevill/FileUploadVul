@@ -1,4 +1,3 @@
-@@ -0,0 +1,17 @@
 <!-- Simple PHP backdoor by DK (http://michaeldaw.org) -->
 
 <?php
